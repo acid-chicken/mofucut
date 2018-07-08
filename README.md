@@ -1,6 +1,6 @@
 # mofucut
 
-A tiny string substring tool which written by Nim.
+A tiny string substring tool which was written by Nim.
 
 ## features
 
